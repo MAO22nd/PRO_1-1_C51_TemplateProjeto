@@ -11,7 +11,7 @@
 body{
     margin: 0px;
     /* modifique a cor de fundo aqui*/
-    background-color:#000000;
+    background-color:#2596be;
     
 }
 
@@ -33,7 +33,7 @@ body{
     background-color: #ffffff;
     /* modifique a margem e o preenchimento aqui*/
     padding: 200px;
-    margin: 0px;
+    margin: 30px;
     width:310px;
     font-family: fantasy;
     
